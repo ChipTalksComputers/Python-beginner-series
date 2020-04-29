@@ -1,0 +1,49 @@
+//Obsidian credits: David Sosby
+//monokai credits: Jaime Rodríguez-Guerra
+//Copy and paste them in your config-highlight file mentioned in my YouTube video
+//https://youtu.be/vxoJbsfhs04 <---[YouTube video link]
+
+[Obsidian]
+definition-foreground = #678CB1
+error-foreground = #FF0000
+string-background = #293134
+keyword-foreground = #93C763
+normal-foreground = #E0E2E4
+comment-background = #293134
+hit-foreground = #E0E2E4
+builtin-background = #293134
+stdout-foreground = #678CB1
+cursor-foreground = #E0E2E4
+break-background = #293134
+comment-foreground = #66747B
+hilite-background = #2F393C
+hilite-foreground = #E0E2E4
+definition-background = #293134
+stderr-background = #293134
+hit-background = #000000
+console-foreground = #E0E2E4
+normal-background = #293134
+builtin-foreground = #E0E2E4
+stdout-background = #293134
+console-background = #293134
+stderr-foreground = #FB0000
+keyword-background = #293134
+string-foreground = #EC7600
+break-foreground = #E0E2E4
+error-background = #293134
+
+[monokai]
+normal-foreground= #F8F8F2
+normal-background= #272822
+keyword-foreground= #F92672
+keyword-background= #272822
+builtin-foreground= #66D9EF
+builtin-background= #272822
+comment-foreground= #75715E
+comment-background= #272822
+string-foreground= #FD971F
+string-background= #272822
+definition-foreground= #A6E22E
+definition-background= #272822
+hilite-foreground= #F8F8F2
+hilite-background= gray
