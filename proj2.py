@@ -14,7 +14,7 @@ print(greeting, 'my name is', name, end=' ')
 print('Hi')
 
 #Formatted output
-print(f'{greeting}, my name is {Chip}')
+print(f'{greeting}, my name is {name}')
 
 #format() function
 print('{}, my name is {}'.format(greeting, name))
