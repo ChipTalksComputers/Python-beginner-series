@@ -1,6 +1,6 @@
 rodents = ['squirrel', 'chipmunk', 'hamster']
 
-print(rodents)
+print(len(rodents))
 
 rodents.insert(0, 'rat')
 
@@ -23,3 +23,7 @@ print(rodents)
 rodents.pop(0)
 
 print(rodents)
+
+print(rodents[2:3])
+
+
