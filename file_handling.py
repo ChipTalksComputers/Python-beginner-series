@@ -22,7 +22,7 @@ file.write('{your_message}')
 file.close()
 
 
-#Creating a file
+#Creating a new file
 
 file = open('{file_path}', mode = 'x')  #Just create
 
