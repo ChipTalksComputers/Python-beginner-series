@@ -1,4 +1,5 @@
 #Taking a number input
+#Important: The indentation space I've used here is 2. You'll need to make the changes, if any on your compiler!
 
 num = int(input("Enter a number"))
 
